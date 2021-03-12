@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\bin\Debug\Foods.txt
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\bin\Debug\MedicalProducts.txt
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe.config
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.pdb
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.Properties.Resources.resources
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.exe
+C:\Users\kevin\source\repos\DealerOnCodeAssignment\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.pdb

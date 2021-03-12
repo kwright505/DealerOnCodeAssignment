@@ -1,0 +1,13 @@
+Kevin Wright
+
+Problem Two:
+
+I went about solving this problem by splitting it up into three parts:
+1. parsing through imput to get item name and price 
+2. figuring out taxes based on the the type of item and if it is imported
+3. combining prices and taxes and output reciept
+
+Assumtions and Requirements:
+
+1. the input is split by commas instead of new lines
+2. food and medical supplies are found in the food.txt and medsupplies.txt files (can be changed and appended)

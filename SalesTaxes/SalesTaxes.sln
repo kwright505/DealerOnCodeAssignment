@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxes", "SalesTaxes\SalesTaxes.csproj", "{FEC04B57-9F8F-4296-82C1-F377B1A26002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxTest", "SalesTaxTest\SalesTaxTest.csproj", "{A844AA4A-F5CE-42B9-A406-1F54CFB41173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC04B57-9F8F-4296-82C1-F377B1A26002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC04B57-9F8F-4296-82C1-F377B1A26002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC04B57-9F8F-4296-82C1-F377B1A26002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC04B57-9F8F-4296-82C1-F377B1A26002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A844AA4A-F5CE-42B9-A406-1F54CFB41173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A844AA4A-F5CE-42B9-A406-1F54CFB41173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A844AA4A-F5CE-42B9-A406-1F54CFB41173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A844AA4A-F5CE-42B9-A406-1F54CFB41173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C1E43F1-E5AD-4600-9D4B-9464BF194646}
+	EndGlobalSection
+EndGlobal
